@@ -1,8 +1,6 @@
 # Towards Interpretable Formal Software Requirements: Empirical Assessment of Open-Source LLMs for LTL to NL Translation
 
-This repository contains the appendix and codes for the ENASE 2026 paper:
-
-"Towards Interpretable Formal Software Requirements: Empirical Assessment of Open-Source LLMs for LTL to NL Translation".
+This repository contains the appendix and codes for the ENASE 2026 paper: "Towards Interpretable Formal Software Requirements: Empirical Assessment of Open-Source LLMs for LTL to NL Translation".
 
 **Authors:** Vimaleswar A (IISER Bhopal), Dr. Arpit Sharma (IISER Bhopal)
 
