@@ -10,3 +10,13 @@ for LTL to NL translation. In Phase-1, 40 diverse models are screened for basic 
 medium sized open-source LLMs can outperform larger models under appropriate prompting, indicating that model scale alone is not sufficient to determine translation quality.
 
 The repository contains the details of the models, prompts, datasets, and evaluation code used in the paper.
+
+---
+## 📂 Repository Structure
+
+- In this repository, you'll find:
+
+  - `Appendix.pdf` → Supplementary material containing the list of evaluated open-source LLMs, Phase-1 screening results, all 80 LTL formulas used in Phase-2 from the four datasets, prompting templates (P1-P7), and additional experimental details.
+  - `Explanation_Evaluation.ipynb` → Jupyter notebook containing evaluation script for explanation evaluation using BARTScore.
+  - `Generated_Explanations.pdf` → Contains the explanations generated using ChatGPT that serve as the reference explanations.
+  - `Natural_Language_Evaluation.ipynb` → Jupyter notebook containing evaluation scripts for natural language evaluation.
