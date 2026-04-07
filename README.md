@@ -17,6 +17,6 @@ The repository contains the details of the models, prompts, datasets, and evalua
 - In this repository, you'll find:
 
   - `Appendix.pdf` → Supplementary material containing the list of evaluated open-source LLMs, Phase-1 screening results, all 80 LTL formulas used in Phase-2 from the four datasets, prompting templates (P1-P7), and additional experimental details.
-  - `Explanation_Evaluation.ipynb` → Jupyter notebook containing evaluation script for explanation evaluation using BARTScore.
+  - `Explanation_Evaluation.ipynb` → Jupyter notebook containing evaluation script for explanation evaluation (BARTScore).
   - `Generated_Explanations.pdf` → Contains the explanations generated using ChatGPT that serve as the reference explanations.
-  - `Natural_Language_Evaluation.ipynb` → Jupyter notebook containing evaluation scripts for natural language evaluation.
+  - `Natural_Language_Evaluation.ipynb` → Jupyter notebook containing evaluation scripts for natural language evaluation (BLEU, ROUGE, METEOR, SBERT).
